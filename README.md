@@ -1,4 +1,4 @@
-# polibrushINSTRUCTIONS FOR INSTALLING "PoliBrush" (only for Windows operating systems):
+# polibrush: INSTRUCTIONS FOR INSTALLING "PoliBrush" (only for Windows operating systems):
  
 1) Download the .exe installer from the following weblink: http://iasim.net/documents/PoliBrush_3p0.exe
  
