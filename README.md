@@ -1,8 +1,8 @@
 # polibrush: INSTRUCTIONS FOR INSTALLING "PoliBrush" (only for Windows operating systems):
  
-1) Download the .exe installer from the following weblink: http://iasim.net/documents/PoliBrush_3p0.exe
+1) Download the .exe installer.
  
-2) Double click on the downloaded file "PoliBrush_3p3.exe".
+2) Double click on the downloaded .exe file.
  
 3) Ignore warning messages by Windows and/or by Antivirus software (e.g., "Unidentified developer: launch anyway?"), and execute the installation procedure anyway.
  
