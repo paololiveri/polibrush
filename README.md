@@ -15,7 +15,7 @@
 
 
 A detailed user guide is provided in the following open-access tutorial paper:
-   R. Rocha de Oliveira, C. Malegori, G. Sciutto, P. Oliveri,
+   R. Rocha de Oliveira, C. Malegori, G. Sciutto, P. Oliveri.
    PoliBrush – A user-friendly software to aid multivariate image analysis dissemination.
    Chemometrics and Intelligent Laboratory Systems, 240 (2023) 104918.
    https://doi.org/10.1016/j.chemolab.2023.104918
