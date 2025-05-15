@@ -11,3 +11,13 @@
 5) The download/installation procedure will start. On some older PCs, the procedure might crash at the first attempt, with an error message. By resetting and restarting the procedure (from the step 2 of the present list), the procedure should be successfully completable.
  
 6) Once installed, PoliBrush can be executed by launching it directly from the program list or from the desktop (if the related link was created). The first launch might require some minutes, due to routine controls by Windows Antivirus software.
+
+
+
+A detailed user guide is provided in the following open-access tutorial paper:
+   R. Rocha de Oliveira, C. Malegori, G. Sciutto, P. Oliveri
+   PoliBrush – A user-friendly software to aid multivariate image analysis dissemination
+   Chemometrics and Intelligent Laboratory Systems, 240 (2023) 104918
+   https://doi.org/10.1016/j.chemolab.2023.104918
+
+ 
